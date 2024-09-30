@@ -2,7 +2,7 @@
 // package Java1;
 import java.util.Scanner;
 
-public class App {
+public class Test1 {
     public static void calculator(int a, int b, String op) {
         double result;
         switch (op) {
